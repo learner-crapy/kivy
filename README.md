@@ -1,2 +1,2 @@
 # kivy
-This is a projuct whose target is to make an app whih python
+This is a project whose target is to make an app with python
